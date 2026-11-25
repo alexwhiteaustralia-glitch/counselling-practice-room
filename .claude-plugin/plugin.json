@@ -9,6 +9,9 @@
     "url": "https://alexwhite.com.au"
   },
   "homepage": "https://alexwhite.com.au",
+  "repository": "https://github.com/alexwhiteaustralia-glitch/counselling-practice-room",
+  "documentationUrl": "https://github.com/alexwhiteaustralia-glitch/counselling-practice-room#readme",
+  "supportUrl": "https://github.com/alexwhiteaustralia-glitch/counselling-practice-room/issues",
   "license": "CC-BY-NC-4.0",
   "keywords": [
     "counselling",

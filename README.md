@@ -36,7 +36,10 @@ This is skills practice, not therapy, counselling or clinical supervision. The s
 - "session with Greg" (a casebook client)
 - "report"
 
-## What it reads, writes and sends
+## Privacy
+
+What the plugin reads, writes and sends:
+
 
 The plugin is instructions only. It runs no code, connects to no services, and sends nothing anywhere. It reads and writes only these files, in a folder or Project you choose, and only when you ask for something that needs them: `Practice_Log.md`, `Favourite_Skills.md`, `Casebook_Notes.md` and `Casebook_Sealed.md`. Session notes keep the simulated client's story to a one-line theme, and replays never store real names or transcripts.
 

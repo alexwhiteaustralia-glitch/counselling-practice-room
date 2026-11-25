@@ -1,8 +1,12 @@
 # The Practice Room
 
-A counselling skills coach for counselling and psychotherapy students. Claude teaches each skill, drills it with you, plays a simulated client in voice or text, and gives you observer feedback and a structured debrief afterwards.
+A counselling skills coach for counselling and psychotherapy students, and for anyone wanting to refine their counselling skills. Claude teaches each skill, drills it with you, plays a simulated client in voice or text, and gives you observer feedback and a structured debrief afterwards.
 
 Built by a counselling student who wanted more reps between triads. It draws on widely used frameworks: person-centred practice (Rogers), the microskills hierarchy (after Ivey), therapeutic presence (Geller), motivational interviewing (Miller and Rollnick), the stages of change model (Prochaska and DiClemente) and explanatory model questions (Kleinman). It isn't tied to any course or institution. If your training teaches something differently, follow your training.
+
+## Who it's for
+
+Students building their skills for placements and assessments, and qualified counsellors, psychotherapists and helping professionals who want to keep their skills sharp, prepare for supervision, or brush up on a particular skill.
 
 ## Training only
 
@@ -40,7 +44,6 @@ This is skills practice, not therapy, counselling or clinical supervision. The s
 
 What the plugin reads, writes and sends:
 
-
 The plugin is instructions only. It runs no code, connects to no services, and sends nothing anywhere. It reads and writes only these files, in a folder or Project you choose, and only when you ask for something that needs them: `Practice_Log.md`, `Favourite_Skills.md`, `Casebook_Notes.md` and `Casebook_Sealed.md`. Session notes keep the simulated client's story to a one-line theme, and replays never store real names or transcripts.
 
 ## Feedback and support
@@ -49,4 +52,6 @@ Feedback is very welcome, especially from students, trainers and supervisors: wh
 
 ## Licence
 
-Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0). Free for personal and educational use. For commercial or institutional licensing, get in touch at the address above.
+Free for individual students and practitioners to use for their own practice. Colleges, universities and training providers using it in courses or paid training need a licence: contact hello@alexwhite.com.au.
+
+The content is licensed under Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0).

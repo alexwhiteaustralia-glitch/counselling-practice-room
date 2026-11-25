@@ -1,0 +1,23 @@
+{
+  "name": "counselling-practice-room",
+  "displayName": "The Practice Room",
+  "version": "16.0.0",
+  "description": "A counselling skills coach for counselling and psychotherapy students. Teaches each microskill, runs drills, plays a simulated client in voice or text, and gives observer feedback and a structured debrief. Training only, not therapy.",
+  "author": {
+    "name": "Alex White",
+    "email": "hello@alexwhite.com.au",
+    "url": "https://alexwhite.com.au"
+  },
+  "homepage": "https://alexwhite.com.au",
+  "license": "CC-BY-NC-4.0",
+  "keywords": [
+    "counselling",
+    "counseling",
+    "psychotherapy",
+    "microskills",
+    "role-play",
+    "education",
+    "students",
+    "motivational-interviewing"
+  ]
+}
